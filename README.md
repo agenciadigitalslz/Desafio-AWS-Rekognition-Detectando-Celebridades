@@ -1,0 +1,1 @@
+# Desafio-AWS-Rekognition-Detectando-Celebridades
